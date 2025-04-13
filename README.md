@@ -6,7 +6,9 @@ AutomationEcommerce is a test automation project built with Java and Maven. It s
 - User Signup
 - User Signin
 - Product Search & Add to Cart
-- Checkout and Order Confirmation
+- Order Confirmation
+- Online Payment
+- Final Checkout
 
 ## 🛠 Tech Stack
 
