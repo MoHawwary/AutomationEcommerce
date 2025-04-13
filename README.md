@@ -3,7 +3,6 @@
 AutomationEcommerce is a test automation project built with Java and Maven. It simulates a full user journey on an e-commerce website — from account creation to product purchase.
 
 ## ✅ Features
-
 - User Signup
 - User Signin
 - Product Search & Add to Cart
@@ -13,9 +12,10 @@ AutomationEcommerce is a test automation project built with Java and Maven. It s
 
 - Java
 - Selenium WebDriver
-- TestNG / JUnit (specify which one you're using)
+- TestNG 
 - Maven
 - Page Object Model (POM) design pattern
+- Page Factory design pattern
 
 ## 🚀 Getting Started
 
@@ -24,13 +24,12 @@ AutomationEcommerce is a test automation project built with Java and Maven. It s
    git clone https://github.com/MoHawwary/AutomationEcommerce.git
 2. Import the project into your IDE (IntelliJ, Eclipse, etc.)
 3. Install dependencies:
-
 mvn clean install
 4. Run the tests:
 Using TestNG XML file or directly from test classes.
 
-📁 Project Structure
-AutomationEcommerce/
+## 📁 Project Structure
+- AutomationEcommerce/
 ├── src/
 │   └── test/
 │       ├── java/
@@ -40,7 +39,7 @@ AutomationEcommerce/
 ├── pom.xml
 ├── .gitignore
 └── README.md
-Author
+- Author
 Mohamed Hassan Hawary
 GitHub: @MoHawwary
 
