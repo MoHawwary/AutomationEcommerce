@@ -42,8 +42,8 @@ Using TestNG XML file or directly from test classes.
 - ├── .gitignore
 - └── README.md
 ## Author
--Mohamed Hassan Hawary
--GitHub: @MoHawwary
+- Mohamed Hassan Hawary
+- GitHub: @MoHawwary
 
 
 
