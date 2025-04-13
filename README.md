@@ -29,21 +29,21 @@ mvn clean install
 Using TestNG XML file or directly from test classes.
 
 ## 📁 Project Structure
-AutomationEcommerce/
-│
-├── src/
-│   └── test/
-│       └── java/
-│           ├── pages/
-│           ├── tests/
-│           └── utils/
-│
-├── pom.xml
-├── .gitignore
-└── README.md
-- Author
-Mohamed Hassan Hawary
-GitHub: @MoHawwary
+- AutomationEcommerce/
+- │
+- ├── src/
+- │   └── test/
+- │       └── java/
+- │           ├── pages/
+- │           ├── tests/
+- │           └── utils/
+- │
+- ├── pom.xml
+- ├── .gitignore
+- └── README.md
+## Author
+-Mohamed Hassan Hawary
+-GitHub: @MoHawwary
 
 
 
