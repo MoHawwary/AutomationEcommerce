@@ -1,0 +1,55 @@
+{
+  "loginData": {
+    "email": "m.alhawary@wakeb.tech",
+    "password": "P@$$w0rd"
+  },
+    "preRegisteredData": {
+      "name": "Mohamed Hawary",
+      "email": "m.alhawary@wakeb.tech",
+      "password": "P@$$w0rd",
+      "birthdateDay": "30",
+      "birthdateMonth": "6",
+      "birthdateYear": "1994",
+      "gender": "Mr",
+      "firstName": "Mohamed",
+      "lastName": "Hawary",
+      "country": "Australia",
+      "Address": "19 AlAhram ST, Giza, Egypt",
+      "state": "Giza",
+      "city": "Fisal",
+      "zipCode": "24688",
+      "mobileNumber": "01147797555"
+    },
+  "newRegistrationData": {
+    "name": "Mohamed Hawary",
+    "email": "m.alhawary@wakeb.tech",
+    "password": "P@$$w0rd",
+    "birthdateDay": "7",
+    "birthdateMonth": "3",
+    "birthdateYear": "1995",
+    "gender": "Mrs",
+    "firstName": "Hanan",
+    "lastName": "Ahmed",
+    "country": "Canada",
+    "Address": "19 AlAhram ST, Giza, Egypt",
+    "state": "Giza",
+    "city": "Fisal",
+    "zipCode": "24688",
+    "mobileNumber": "112233333"
+
+  },
+"validPaymentCard1": {
+  "nameOnCard": "Mohamed Hassan Hawary",
+  "cardNumber": "11223344556677",
+  "CVV": "514",
+  "expiryMonth": "12",
+  "expiryYear": "2028"
+},
+  "expiredPaymentCard2": {
+    "nameOnCard": "Ahmed Toson",
+    "cardNumber": "77889966554433",
+    "CVV": "155",
+    "expiryMonth": "12",
+    "expiryYear": "2024"
+  }
+}
