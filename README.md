@@ -29,13 +29,15 @@ mvn clean install
 Using TestNG XML file or directly from test classes.
 
 ## 📁 Project Structure
-- AutomationEcommerce/
+AutomationEcommerce/
+│
 ├── src/
 │   └── test/
-│       ├── java/
-│       │   ├── pages/
-│       │   ├── tests/
-│       │   └── utils/
+│       └── java/
+│           ├── pages/
+│           ├── tests/
+│           └── utils/
+│
 ├── pom.xml
 ├── .gitignore
 └── README.md
